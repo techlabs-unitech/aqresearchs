@@ -54,8 +54,8 @@ export const teamData = [
     role: 'Project Executive ',
     shortDesc: 'A proactive professional focused on delivering impactful research outcomes through effective project coordination and execution.',
     fullBio: `Shreya M Narayan coordinates research activities and ensures smooth and efficient project execution, A detail-oriented and proactive professional with strong communication and interpersonal skills. As a Project Executive at AQ Research.`,
-    img: `${BASE}/shreya m narayan.jpeg`,
-    fallbackImg: `${REMOTE}/shreya m narayan.jpeg`,
+    img: `${BASE}/shreyam.jpeg`,
+    fallbackImg: `${REMOTE}/shreyam.jpeg`,
   },
   {
     name: 'Sunil U',
