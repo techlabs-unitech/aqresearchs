@@ -14,10 +14,10 @@ const values = [
 ];
 
 const journey = [
-  { year: 'Hansa Research', role: 'Founder — 8 years', desc: 'Deep roots in quantitative field research across India.' },
-  { year: 'Intage', role: 'Founder — 1 year', desc: 'Exposure to international research methodologies and standards.' },
-  { year: 'Market Xcel', role: 'Founder — 3 years', desc: 'Multi-sector project management across FMCG, auto, and social domains.' },
-  { year: 'AQ Research', role: 'Founded', desc: 'Bringing together 15+ years of expertise under one focused research organization.' },
+  { year: 'Hansa Research', role: '8 years', desc: 'Deep roots in quantitative field research across India.' },
+  { year: 'Intage', role: '1 year', desc: 'Exposure to international research methodologies and standards.' },
+  { year: 'Market Xcel', role: '3 years', desc: 'Multi-sector project management across FMCG, auto, and social domains.' },
+  { year: 'AQ Research', role: 'Founder (CEO) ', desc: 'Bringing together 15+ years of expertise under one focused research organization.' },
 ];
 
 function BioImg({ member }) {
