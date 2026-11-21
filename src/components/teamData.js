@@ -58,22 +58,6 @@ export const teamData = [
     fallbackImg: `${REMOTE}/shreyam.jpeg`,
   },
   {
-    name: 'Sunil U',
-    role: 'Project Executive',
-    shortDesc: 'Provides a mix of qualitative and quantitative research for a comprehensive market view.',
-    fullBio: `Sunil U brings a well-rounded research perspective, combining qualitative and quantitative approaches to deliver comprehensive insights. His mixed-method expertise helps clients gain a fuller picture of their market environment.`,
-    img: `${BASE}/sunil.jpg`,
-    fallbackImg: `${REMOTE}/sunil.jpg`,
-  },
-  {
-    name: 'Vamshikrishna CH',
-    role: 'Project Executive',
-    shortDesc: 'Identifies and analyzes consumer trends and behaviors through robust research methodologies.',
-    fullBio: `Vamshikrishna CH specializes in identifying and analyzing consumer trends, preferences, and behaviors through robust and structured research methodologies. He brings analytical discipline and thorough data handling to every project.`,
-    img: `${BASE}/vamshi.jpg`,
-    fallbackImg: `${REMOTE}/vamshi.jpg`,
-  },
-  {
     name: 'Aneesh B',
     role: 'Project Executive Leader',
     shortDesc: 'Detail-oriented growth-driven professional with strong communication and interpersonal skills.',
